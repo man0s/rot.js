@@ -1,4 +1,4 @@
-rot.js
+[![rot.js Logo](https://i.imgur.com/f3z0Q3m.png)](https://github.com/ondras/rot.js)
 ======
 
 ROguelike Toolkit in JavaScript. For more info, see http://ondras.github.com/rot.js.
